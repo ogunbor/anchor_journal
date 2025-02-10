@@ -1,1 +1,1 @@
-Journal, more like a CRUD app built using anchor.
+Journal, more like a CRUD app built using anchor
